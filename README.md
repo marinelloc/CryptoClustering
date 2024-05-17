@@ -1,0 +1,1 @@
+We identified the optimal number of clusters (k) for cryptocurrency data using the elbow method, both with original scaled data and PCA-reduced data. We performed K-means clustering, visualized the clusters in scatter plots, and compared the clustering effectiveness and impact of dimensionality reduction using PCA.
